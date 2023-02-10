@@ -1,6 +1,6 @@
 # Java-Practice
 
-##Technology and Tools Used
+## Technology and Tools Used
 - Java
 - IntelliJ IDEA
 
