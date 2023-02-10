@@ -1,5 +1,9 @@
 # Java-Practice
 
+##Technology and Tools Used
+- Java
+- IntelliJ IDEA
+
 ## Practice Topics
 - Print prime numbers form 2 to 100.
 - Write a program that will count number of notes from given array
